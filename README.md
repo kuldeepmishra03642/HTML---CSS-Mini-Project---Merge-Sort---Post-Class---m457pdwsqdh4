@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Codebase for https://jolly-kalam-23776e.netlify.app/photographysite/#images Kuldeep photography portfolio. Current iteration is built using HTML ans CSS.
+- Codebase for https://dancing-strudel-235b13.netlify.app/#images Kuldeep photography portfolio. Current iteration is built using HTML ans CSS.
 
 ### Features
 
